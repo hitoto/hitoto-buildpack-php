@@ -1,4 +1,4 @@
-# Heroku buildpack: PHP
+# Hitoto buildpack: PHP
 
 ![php](https://cloud.githubusercontent.com/assets/51578/8882982/73ea501a-3219-11e5-8f87-311e6b8a86fc.jpg)
 

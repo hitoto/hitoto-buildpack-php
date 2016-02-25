@@ -152,7 +152,7 @@ LoadModule status_module libexec/mod_status.so
 LoadModule autoindex_module libexec/mod_autoindex.so
 #LoadModule asis_module libexec/mod_asis.so
 #LoadModule info_module libexec/mod_info.so
-#LoadModule cgid_module libexec/mod_cgid.so
+LoadModule cgid_module libexec/mod_cgid.so
 #LoadModule dav_fs_module libexec/mod_dav_fs.so
 #LoadModule dav_lock_module libexec/mod_dav_lock.so
 #LoadModule vhost_alias_module libexec/mod_vhost_alias.so
